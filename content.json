@@ -1030,18 +1030,50 @@
       {
         "file": "pdf-manual-p16.webp",
         "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 16쪽 화면 예시"
+      },
+      {
+        "file": "guide-table-01.jpg",
+        "caption": "테이블 관리 · 원본 화면 1"
+      },
+      {
+        "file": "guide-table-12.jpg",
+        "caption": "테이블 관리 · 원본 화면 12"
+      },
+      {
+        "file": "guide-table-13.jpg",
+        "caption": "테이블 관리 · 원본 화면 13"
+      },
+      {
+        "file": "guide-table-14.jpg",
+        "caption": "테이블 관리 · 원본 화면 14"
       }
     ],
     "master-battery": [
       {
         "file": "pdf-manual-p13.webp",
         "caption": "마스터앱 · 테이블 관리 화면 예시"
+      },
+      {
+        "file": "guide-table-04.jpg",
+        "caption": "테이블 관리 · 원본 화면 4"
+      },
+      {
+        "file": "guide-table-05.jpg",
+        "caption": "테이블 관리 · 원본 화면 5"
       }
     ],
     "master-sort": [
       {
         "file": "pdf-manual-p13.webp",
         "caption": "마스터앱 · 테이블 관리 화면 예시"
+      },
+      {
+        "file": "guide-table-02.jpg",
+        "caption": "테이블 관리 · 원본 화면 2"
+      },
+      {
+        "file": "guide-table-03.jpg",
+        "caption": "테이블 관리 · 원본 화면 3"
       }
     ],
     "order-history": [
@@ -1080,6 +1112,10 @@
       {
         "file": "pdf-manual-p08.webp",
         "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 8쪽 화면 예시"
+      },
+      {
+        "file": "guide-total-01.jpg",
+        "caption": "통합내역 · 원본 화면 1"
       }
     ],
     "pdf-robot-call": [
@@ -1092,24 +1128,60 @@
       {
         "file": "pdf-manual-p15.webp",
         "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 15쪽 화면 예시"
+      },
+      {
+        "file": "guide-table-04.jpg",
+        "caption": "테이블 관리 · 원본 화면 4"
+      },
+      {
+        "file": "guide-table-05.jpg",
+        "caption": "테이블 관리 · 원본 화면 5"
       }
     ],
     "pdf-table-time-alert": [
       {
         "file": "pdf-manual-p16.webp",
         "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 16쪽 화면 예시"
+      },
+      {
+        "file": "guide-table-06.jpg",
+        "caption": "테이블 관리 · 원본 화면 6"
+      },
+      {
+        "file": "guide-table-07.jpg",
+        "caption": "테이블 관리 · 원본 화면 7"
+      },
+      {
+        "file": "guide-table-08.jpg",
+        "caption": "테이블 관리 · 원본 화면 8"
+      },
+      {
+        "file": "guide-table-09.jpg",
+        "caption": "테이블 관리 · 원본 화면 9"
+      },
+      {
+        "file": "guide-table-10.jpg",
+        "caption": "테이블 관리 · 원본 화면 10"
       }
     ],
     "pdf-kds-order": [
       {
         "file": "pdf-manual-p17.webp",
         "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 17쪽 화면 예시"
+      },
+      {
+        "file": "guide-kds-01.jpg",
+        "caption": "KDS · 원본 화면 1"
       }
     ],
     "pdf-kds-undo": [
       {
         "file": "pdf-manual-p18.webp",
         "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 18쪽 화면 예시"
+      },
+      {
+        "file": "guide-kds-02.jpg",
+        "caption": "KDS · 원본 화면 2"
       }
     ],
     "pdf-powerstrip": [
@@ -1138,6 +1210,10 @@
       {
         "file": "pdf-manual-p09.webp",
         "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 9쪽 화면 예시"
+      },
+      {
+        "file": "guide-total-01.jpg",
+        "caption": "통합내역 · 원본 화면 1"
       }
     ],
     "master-device-control": [
@@ -1148,48 +1224,92 @@
       {
         "file": "pdf-manual-p15.webp",
         "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 15쪽 화면 예시"
+      },
+      {
+        "file": "guide-table-11.jpg",
+        "caption": "테이블 관리 · 원본 화면 11"
       }
     ],
     "kds": [
       {
         "file": "pdf-manual-p17.webp",
         "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 17쪽 화면 예시"
+      },
+      {
+        "file": "guide-kds-01.jpg",
+        "caption": "KDS · 원본 화면 1"
+      },
+      {
+        "file": "guide-kds-02.jpg",
+        "caption": "KDS · 원본 화면 2"
       }
     ],
     "printer": [
       {
         "file": "pdf-manual-p24.webp",
         "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 24쪽 화면 예시"
+      },
+      {
+        "file": "guide-printer-01.png",
+        "caption": "출력 설정 · 원본 화면 1"
       }
     ],
     "master-menu": [
       {
         "file": "pdf-manual-p20.webp",
         "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 20쪽 화면 예시"
+      },
+      {
+        "file": "guide-master-menu-01.jpg",
+        "caption": "마스터앱 메뉴 관리 · 원본 화면 1"
       }
     ],
     "master-options": [
       {
         "file": "pdf-manual-p21.webp",
         "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 21쪽 화면 예시"
+      },
+      {
+        "file": "guide-master-option-01.jpg",
+        "caption": "마스터앱 옵션 관리 · 원본 화면 1"
       }
     ],
     "master-order-settings": [
       {
         "file": "pdf-manual-p22.webp",
         "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 22쪽 화면 예시"
+      },
+      {
+        "file": "guide-master-order-01.jpg",
+        "caption": "최소 주문 설정 · 원본 화면 1"
       }
     ],
     "kitchen-close": [
       {
         "file": "pdf-manual-p23.webp",
         "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 23쪽 화면 예시"
+      },
+      {
+        "file": "guide-kitchen-01.jpg",
+        "caption": "주방 마감 · 원본 화면 1"
+      },
+      {
+        "file": "guide-kitchen-02.jpg",
+        "caption": "주방 마감 · 원본 화면 2"
       }
     ],
     "alarm": [
       {
         "file": "pdf-manual-p25.webp",
         "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 25쪽 화면 예시"
+      },
+      {
+        "file": "guide-alarm-01.jpg",
+        "caption": "알림벨 설정 · 원본 화면 1"
+      },
+      {
+        "file": "guide-alarm-02.jpg",
+        "caption": "알림벨 설정 · 원본 화면 2"
       }
     ],
     "payment-history": [],
@@ -1340,6 +1460,14 @@
       {
         "file": "guide-store-connect-03.jpg",
         "caption": "사업자 정보와 첨부 입력 화면"
+      },
+      {
+        "file": "guide-store-connect-04.jpg",
+        "caption": "매장 연동 · 원본 화면 4"
+      },
+      {
+        "file": "guide-store-connect-05.jpg",
+        "caption": "매장 연동 · 원본 화면 5"
       }
     ],
     "party-count": [
@@ -1356,6 +1484,112 @@
       {
         "file": "pdf-manual-p26.webp",
         "caption": "PDF 26쪽 · 통합내역 전체 삭제와 마스터앱 종료 화면"
+      }
+    ],
+    "mypage": [
+      {
+        "file": "guide-mypage-01.jpg",
+        "caption": "마이페이지·차트 · 원본 화면 1"
+      }
+    ],
+    "monthly-chart": [
+      {
+        "file": "guide-mypage-03.jpg",
+        "caption": "마이페이지·차트 · 원본 화면 3"
+      }
+    ],
+    "daily-chart": [
+      {
+        "file": "guide-mypage-04.png",
+        "caption": "마이페이지·차트 · 원본 화면 4"
+      }
+    ],
+    "menu-chart": [
+      {
+        "file": "guide-mypage-05.jpg",
+        "caption": "마이페이지·차트 · 원본 화면 5"
+      },
+      {
+        "file": "guide-mypage-06.jpg",
+        "caption": "마이페이지·차트 · 원본 화면 6"
+      }
+    ],
+    "last-order": [
+      {
+        "file": "guide-last-order-01.jpg",
+        "caption": "직전 주문 팝업 · 원본 화면 1"
+      }
+    ],
+    "prepaid": [
+      {
+        "file": "guide-prepaid-01.png",
+        "caption": "선불·분할 결제 · 원본 화면 1"
+      },
+      {
+        "file": "guide-prepaid-02.jpg",
+        "caption": "선불·분할 결제 · 원본 화면 2"
+      },
+      {
+        "file": "guide-prepaid-04.png",
+        "caption": "선불·분할 결제 · 원본 화면 4"
+      },
+      {
+        "file": "guide-prepaid-05.jpg",
+        "caption": "선불·분할 결제 · 원본 화면 5"
+      },
+      {
+        "file": "guide-prepaid-06.jpg",
+        "caption": "선불·분할 결제 · 원본 화면 6"
+      },
+      {
+        "file": "guide-prepaid-07.jpg",
+        "caption": "선불·분할 결제 · 원본 화면 7"
+      },
+      {
+        "file": "guide-prepaid-08.jpg",
+        "caption": "선불·분할 결제 · 원본 화면 8"
+      },
+      {
+        "file": "guide-prepaid-09.jpg",
+        "caption": "선불·분할 결제 · 원본 화면 9"
+      }
+    ],
+    "served-popup": [
+      {
+        "file": "guide-served-01.png",
+        "caption": "메뉴 제공 알림 · 원본 화면 1"
+      },
+      {
+        "file": "guide-served-02.jpg",
+        "caption": "메뉴 제공 알림 · 원본 화면 2"
+      },
+      {
+        "file": "guide-served-03.jpg",
+        "caption": "메뉴 제공 알림 · 원본 화면 3"
+      },
+      {
+        "file": "guide-served-04.jpg",
+        "caption": "메뉴 제공 알림 · 원본 화면 4"
+      },
+      {
+        "file": "guide-served-05.jpg",
+        "caption": "메뉴 제공 알림 · 원본 화면 5"
+      }
+    ],
+    "protected-mode": [
+      {
+        "file": "guide-protected-01.png",
+        "caption": "오더앱 보호 모드 · 원본 화면 1"
+      },
+      {
+        "file": "guide-protected-02.jpg",
+        "caption": "오더앱 보호 모드 · 원본 화면 2"
+      }
+    ],
+    "internet-status": [
+      {
+        "file": "guide-internet-01.png",
+        "caption": "인터넷 연결 상태 · 원본 화면 1"
       }
     ]
   },
