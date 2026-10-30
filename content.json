@@ -1009,10 +1009,6 @@
     ],
     "edit": [
       {
-        "file": "owner-menu.webp",
-        "caption": "메뉴 관리 진입 화면"
-      },
-      {
         "file": "guide-menu-edit-06.jpg",
         "caption": "메뉴 상세 설정 전체 화면",
         "long": true
@@ -1095,13 +1091,13 @@
     "pdf-call-staff": [
       {
         "file": "pdf-manual-p05.webp",
-        "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 5쪽 화면 예시"
+        "caption": "PDF 5쪽 왼쪽 · 직원 호출 화면 예시"
       }
     ],
     "pdf-idle-screen": [
       {
         "file": "pdf-manual-p05.webp",
-        "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 5쪽 화면 예시"
+        "caption": "PDF 5쪽 오른쪽 · 대기화면 예시 (터치하면 주문 화면으로 복귀)"
       }
     ],
     "pdf-request-list": [
@@ -1178,10 +1174,6 @@
       {
         "file": "pdf-manual-p18.webp",
         "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 18쪽 화면 예시"
-      },
-      {
-        "file": "guide-kds-02.jpg",
-        "caption": "KDS · 원본 화면 2"
       }
     ],
     "pdf-powerstrip": [
@@ -1375,10 +1367,6 @@
     ],
     "group-edit": [
       {
-        "file": "guide-menu-group-edit-01.jpg",
-        "caption": "메뉴 그룹 목록"
-      },
-      {
         "file": "guide-menu-group-edit-06.jpg",
         "caption": "메뉴 그룹 상세 수정",
         "long": true
@@ -1435,10 +1423,6 @@
       }
     ],
     "option-edit": [
-      {
-        "file": "guide-option-edit-01.png",
-        "caption": "옵션 목록"
-      },
       {
         "file": "guide-option-edit-07.png",
         "caption": "옵션 이름·타입·기본값"
