@@ -977,24 +977,45 @@
   "media": {
     "hide": [
       {
+        "file": "owner-menu.webp",
+        "caption": "메뉴 관리 진입 화면"
+      },
+      {
+        "file": "guide-menu-edit-02.jpg",
+        "caption": "메뉴 관리 작업 선택"
+      },
+      {
         "file": "owner-hide.gif",
-        "poster": "owner-hide-poster.webp",
-        "caption": "패스트오더 매니저 · 메뉴 숨김 설정 시연",
-        "gif": true
+        "caption": "메뉴 숨김 설정 시연",
+        "gif": true,
+        "poster": "owner-hide-poster.webp"
       }
     ],
     "sort": [
       {
+        "file": "owner-menu.webp",
+        "caption": "메뉴 관리 진입 화면"
+      },
+      {
+        "file": "guide-menu-edit-02.jpg",
+        "caption": "메뉴 관리 작업 선택"
+      },
+      {
         "file": "owner-sort.gif",
-        "poster": "owner-sort-poster.webp",
-        "caption": "패스트오더 매니저 · 메뉴 순서 변경 시연",
-        "gif": true
+        "caption": "메뉴 순서 변경 시연",
+        "gif": true,
+        "poster": "owner-sort-poster.webp"
       }
     ],
     "edit": [
       {
         "file": "owner-menu.webp",
-        "caption": "패스트오더 매니저 · 메뉴 관리 진입 화면"
+        "caption": "메뉴 관리 진입 화면"
+      },
+      {
+        "file": "guide-menu-edit-06.jpg",
+        "caption": "메뉴 상세 설정 전체 화면",
+        "long": true
       }
     ],
     "master-tables": [
@@ -1171,7 +1192,172 @@
         "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 25쪽 화면 예시"
       }
     ],
-    "payment-history": []
+    "payment-history": [],
+    "delete-menu": [
+      {
+        "file": "owner-menu.webp",
+        "caption": "메뉴 관리 진입 화면"
+      },
+      {
+        "file": "guide-menu-edit-02.jpg",
+        "caption": "메뉴 관리 작업 선택"
+      },
+      {
+        "file": "guide-menu-edit-05.gif",
+        "caption": "메뉴 삭제 시연",
+        "gif": true,
+        "poster": "guide-menu-edit-05-poster.webp"
+      }
+    ],
+    "group-sort": [
+      {
+        "file": "guide-menu-group-edit-01.jpg",
+        "caption": "메뉴 그룹 목록"
+      },
+      {
+        "file": "guide-menu-group-edit-02.jpg",
+        "caption": "메뉴 그룹 작업 선택"
+      },
+      {
+        "file": "guide-menu-group-edit-03.gif",
+        "caption": "메뉴 그룹 순서 변경 시연",
+        "gif": true,
+        "poster": "guide-menu-group-edit-03-poster.webp"
+      }
+    ],
+    "group-hide": [
+      {
+        "file": "guide-menu-group-edit-01.jpg",
+        "caption": "메뉴 그룹 목록"
+      },
+      {
+        "file": "guide-menu-group-edit-02.jpg",
+        "caption": "메뉴 그룹 작업 선택"
+      },
+      {
+        "file": "guide-menu-group-edit-04.jpg",
+        "caption": "메뉴 그룹 숨김 설정"
+      }
+    ],
+    "group-delete": [
+      {
+        "file": "guide-menu-group-edit-01.jpg",
+        "caption": "메뉴 그룹 목록"
+      },
+      {
+        "file": "guide-menu-group-edit-02.jpg",
+        "caption": "메뉴 그룹 작업 선택"
+      },
+      {
+        "file": "guide-menu-group-edit-05.jpg",
+        "caption": "메뉴 그룹 삭제"
+      }
+    ],
+    "group-edit": [
+      {
+        "file": "guide-menu-group-edit-01.jpg",
+        "caption": "메뉴 그룹 목록"
+      },
+      {
+        "file": "guide-menu-group-edit-06.jpg",
+        "caption": "메뉴 그룹 상세 수정",
+        "long": true
+      }
+    ],
+    "option-sort": [
+      {
+        "file": "guide-option-edit-01.png",
+        "caption": "옵션 목록"
+      },
+      {
+        "file": "guide-option-edit-02.png",
+        "caption": "옵션 작업 선택"
+      },
+      {
+        "file": "guide-option-edit-03.gif",
+        "caption": "옵션 순서 변경 시연",
+        "gif": true,
+        "poster": "guide-option-edit-03-poster.webp"
+      }
+    ],
+    "option-hide": [
+      {
+        "file": "guide-option-edit-01.png",
+        "caption": "옵션 목록"
+      },
+      {
+        "file": "guide-option-edit-02.png",
+        "caption": "옵션 작업 선택"
+      },
+      {
+        "file": "guide-option-edit-04.png",
+        "caption": "옵션 숨김 설정"
+      }
+    ],
+    "option-delete": [
+      {
+        "file": "guide-option-edit-01.png",
+        "caption": "옵션 목록"
+      },
+      {
+        "file": "guide-option-edit-02.png",
+        "caption": "옵션 작업 선택"
+      },
+      {
+        "file": "guide-option-edit-05.png",
+        "caption": "옵션 삭제"
+      }
+    ],
+    "option-group-edit": [
+      {
+        "file": "guide-option-edit-01.png",
+        "caption": "옵션 목록"
+      },
+      {
+        "file": "guide-option-edit-06.png",
+        "caption": "옵션 그룹 표시 이름과 관리용 이름"
+      }
+    ],
+    "option-edit": [
+      {
+        "file": "guide-option-edit-01.png",
+        "caption": "옵션 목록"
+      },
+      {
+        "file": "guide-option-edit-07.png",
+        "caption": "옵션 이름·타입·기본값"
+      }
+    ],
+    "connect": [
+      {
+        "file": "guide-store-connect-01.png",
+        "caption": "연동 신청 진입"
+      },
+      {
+        "file": "guide-store-connect-02.jpg",
+        "caption": "매장 연동 신청 입력 화면"
+      },
+      {
+        "file": "guide-store-connect-03.jpg",
+        "caption": "사업자 정보와 첨부 입력 화면"
+      }
+    ],
+    "party-count": [
+      {
+        "file": "guide-party-03.jpg",
+        "caption": "성인·아동 인원수 선택 예시"
+      },
+      {
+        "file": "guide-party-04.jpg",
+        "caption": "기본 인원수 선택 예시"
+      }
+    ],
+    "master-session": [
+      {
+        "file": "pdf-manual-p26.webp",
+        "caption": "PDF 26쪽 · 통합내역 전체 삭제와 마스터앱 종료 화면"
+      }
+    ]
   },
   "apps": {
     "owner": {
