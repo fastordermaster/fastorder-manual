@@ -1430,10 +1430,6 @@
     ],
     "option-group-edit": [
       {
-        "file": "guide-option-edit-01.png",
-        "caption": "옵션 목록"
-      },
-      {
         "file": "guide-option-edit-06.png",
         "caption": "옵션 그룹 표시 이름과 관리용 이름"
       }
