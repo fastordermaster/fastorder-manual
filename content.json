@@ -40,7 +40,8 @@
         "‘순서 변경’을 선택합니다.",
         "메뉴를 길게 누른 상태로 원하는 위치까지 끌어 놓습니다."
       ],
-      "app": "owner"
+      "app": "owner",
+      "tip": ""
     },
     {
       "id": "edit",
@@ -70,7 +71,8 @@
         "조회 기간을 지정하고 ‘검색’을 누릅니다.",
         "목록에서 원하는 주문을 선택해 상세 내용을 확인합니다."
       ],
-      "app": "owner"
+      "app": "owner",
+      "tip": ""
     },
     {
       "id": "occupied",
@@ -440,7 +442,7 @@
         "전자영수증 버튼을 선택하면 전자영수증 QR 화면이 표시됩니다."
       ],
       "keywords": "선불 결제 내역·취소·전자영수증 확인하기 결제내역",
-      "tip": "결제 취소의 실제 지원 범위는 연동 POS와 결제 방식에 따라 확인해 주세요. PDF 안내에 따르면 마스터앱에서 카드 결제를 취소해도 POS의 기존 결제 내역은 유지될 수 있으므로, 취소 후 양쪽 내역을 확인해 주세요.",
+      "tip": "결제 취소의 실제 지원 범위는 연동 POS와 결제 방식에 따라 확인해 주세요. 마스터앱에서 카드 결제를 취소해도 POS의 기존 결제 내역은 유지될 수 있으므로, 취소 후 양쪽 내역을 확인해 주세요.",
       "supplementSource": "2026-04-13 패스트오더 사용자 매뉴얼",
       "sourcePages": []
     },
@@ -731,7 +733,7 @@
         "주문하기를 눌러 주문 정보를 전송합니다."
       ],
       "keywords": "메뉴 선택부터 장바구니 주문까지 주문하기",
-      "tip": "표시되는 테마와 결제 방식에 따라 화면은 다를 수 있습니다. 이 안내는 2026-04-13 PDF 기준이며 앱 버전·POS·매장 설정에 따라 다를 수 있습니다.",
+      "tip": "표시되는 테마와 결제 방식에 따라 화면은 다를 수 있습니다.",
       "sourceLabel": "2026-04-13 패스트오더 사용자 매뉴얼",
       "sourcePages": [
         3,
@@ -751,7 +753,7 @@
         "전달을 눌러 마스터앱으로 요청을 보냅니다."
       ],
       "keywords": "테이블에서 직원 호출과 서비스 요청하기 손님 화면",
-      "tip": "직원 호출 항목은 매장 설정에 따라 다릅니다. 이 안내는 2026-04-13 PDF 기준이며 앱 버전·POS·매장 설정에 따라 다를 수 있습니다.",
+      "tip": "직원 호출 항목은 매장 설정에 따라 다릅니다.",
       "sourceLabel": "2026-04-13 패스트오더 사용자 매뉴얼",
       "sourcePages": [
         5
@@ -769,7 +771,7 @@
         "주문 화면으로 전환되었는지 확인합니다."
       ],
       "keywords": "대기화면에서 주문 화면으로 돌아가기 손님 화면",
-      "tip": " 이 안내는 2026-04-13 PDF 기준이며 앱 버전·POS·매장 설정에 따라 다를 수 있습니다.",
+      "tip": "",
       "sourceLabel": "2026-04-13 패스트오더 사용자 매뉴얼",
       "sourcePages": [
         5
@@ -788,7 +790,7 @@
         "리스트 항목을 선택해 오른쪽에서 주문 메뉴·옵션·수량·금액을 확인합니다."
       ],
       "keywords": "요청 리스트의 신규·추가·선불·후불 표시 읽기 통합내역",
-      "tip": " 이 안내는 2026-04-13 PDF 기준이며 앱 버전·POS·매장 설정에 따라 다를 수 있습니다.",
+      "tip": "",
       "sourceLabel": "2026-04-13 패스트오더 사용자 매뉴얼",
       "sourcePages": [
         7,
@@ -807,7 +809,7 @@
         "표시되는 로봇 호출 관련 정보를 확인합니다."
       ],
       "keywords": "서빙로봇을 사용하는 매장의 호출 내역 확인하기 통합내역",
-      "tip": "서빙로봇 사용 매장에 한해 지원되며, 매장 설정과 연동 상태에 따라 다릅니다. 이 안내는 2026-04-13 PDF 기준이며 앱 버전·POS·매장 설정에 따라 다를 수 있습니다.",
+      "tip": "서빙로봇 사용 매장에 한해 지원되며, 매장 설정과 연동 상태에 따라 다릅니다.",
       "sourceLabel": "2026-04-13 패스트오더 사용자 매뉴얼",
       "sourcePages": [
         10
@@ -827,7 +829,7 @@
         "물음표 아이콘이 나타나면 배터리 상태를 알 수 없는 경우입니다. 연결과 충전 상태를 점검합니다."
       ],
       "keywords": "배터리 잔량과 충전 상태 아이콘 확인하기 기기 관리",
-      "tip": "PDF의 색상별 잔량 구간에는 중복 표기가 있어, 색상보다 실제 잔량 숫자와 충전 아이콘을 기준으로 안내합니다. 이 안내는 2026-04-13 PDF 기준이며 앱 버전·POS·매장 설정에 따라 다를 수 있습니다.",
+      "tip": "배터리 상태는 실제 잔량 숫자와 충전 아이콘을 함께 확인하세요.",
       "sourceLabel": "2026-04-13 패스트오더 사용자 매뉴얼",
       "sourcePages": [
         15
@@ -843,10 +845,10 @@
       "steps": [
         "테이블 탭에서 이용시간 임박 알림 기능이 표시되는지 확인합니다.",
         "이용시간이 임박한 테이블을 확인하고 알림을 전송합니다.",
-        "PDF 예시에서 임박 테이블은 빨간색, 알림을 보낸 테이블은 노란색으로 표시됩니다."
+        "화면 예시에서 임박 테이블은 빨간색, 알림을 보낸 테이블은 노란색으로 표시됩니다."
       ],
       "keywords": "이용시간이 임박한 테이블에 알림 보내기 테이블 관리",
-      "tip": "버튼이 없으면 해당 POS에서 지원하지 않을 수 있습니다. 지원 여부와 동작은 매장 설정을 확인해 주세요. 이 안내는 2026-04-13 PDF 기준이며 앱 버전·POS·매장 설정에 따라 다를 수 있습니다.",
+      "tip": "버튼이 없으면 해당 POS에서 지원하지 않을 수 있습니다. 지원 여부와 동작은 매장 설정을 확인해 주세요.",
       "sourceLabel": "2026-04-13 패스트오더 사용자 매뉴얼",
       "sourcePages": [
         16
@@ -865,7 +867,7 @@
         "테이블 번호와 주문 접수 시간·경과 시간을 함께 확인합니다."
       ],
       "keywords": "KDS의 선입·최신 정렬과 가로·세로 모드 바꾸기 KDS",
-      "tip": " 이 안내는 2026-04-13 PDF 기준이며 앱 버전·POS·매장 설정에 따라 다를 수 있습니다.",
+      "tip": "",
       "sourceLabel": "2026-04-13 패스트오더 사용자 매뉴얼",
       "sourcePages": [
         17
@@ -884,7 +886,7 @@
         "해당 주문의 전체 되돌리기를 누르면 전체 탭으로 돌아가고 완료 체크가 해제됩니다."
       ],
       "keywords": "KDS에서 완료한 주문을 다시 되돌리기 KDS",
-      "tip": " 이 안내는 2026-04-13 PDF 기준이며 앱 버전·POS·매장 설정에 따라 다를 수 있습니다.",
+      "tip": "",
       "sourceLabel": "2026-04-13 패스트오더 사용자 매뉴얼",
       "sourcePages": [
         18
@@ -905,7 +907,7 @@
         "과열·이상 냄새·손상·이상 소음이 있으면 사용을 중단하고 점검 또는 교체를 요청합니다."
       ],
       "keywords": "멀티탭을 안전하게 사용하는 방법 기기·전원 관리",
-      "tip": "충전기와 멀티탭도 소모품이므로 주기적인 점검이 필요합니다. 이 안내는 2026-04-13 PDF 기준이며 앱 버전·POS·매장 설정에 따라 다를 수 있습니다.",
+      "tip": "충전기와 멀티탭도 소모품이므로 주기적인 점검이 필요합니다.",
       "sourceLabel": "2026-04-13 패스트오더 사용자 매뉴얼",
       "sourcePages": [
         27
@@ -926,7 +928,7 @@
         "완충 후 장시간 충전 상태로 두지 않도록 관리하고, 이상이 있으면 사용을 중단합니다."
       ],
       "keywords": "보조배터리·충전기 사용과 보관 방법 기기·전원 관리",
-      "tip": " 이 안내는 2026-04-13 PDF 기준이며 앱 버전·POS·매장 설정에 따라 다를 수 있습니다.",
+      "tip": "",
       "sourceLabel": "2026-04-13 패스트오더 사용자 매뉴얼",
       "sourcePages": [
         28
@@ -938,14 +940,14 @@
       "app": "common",
       "category": "기기·전원 관리",
       "title": "충전기·멀티탭을 주기적으로 점검하기",
-      "intro": "PDF는 충전기·멀티탭·보조배터리의 주기적 점검과 교체 필요성을 안내합니다.",
+      "intro": "충전기·멀티탭·보조배터리는 주기적으로 점검하고 상태에 따라 교체해 주세요.",
       "steps": [
         "플러그와 소켓의 접촉 불량·변색·그을림·케이블 손상 여부를 확인합니다.",
         "열이 쌓이는 좁은 공간과 조리기기 주변을 피합니다.",
         "이상이 있는 기기는 계속 사용하지 말고 고객센터에 점검을 요청합니다."
       ],
       "keywords": "충전기·멀티탭을 주기적으로 점검하기 기기·전원 관리",
-      "tip": "전기 설비와 기기 이상은 임의로 분해하거나 수리하지 말고 담당자 또는 고객센터에 문의해 주세요. 이 안내는 2026-04-13 PDF 기준이며 앱 버전·POS·매장 설정에 따라 다를 수 있습니다.",
+      "tip": "전기 설비와 기기 이상은 임의로 분해하거나 수리하지 말고 담당자 또는 고객센터에 문의해 주세요.",
       "sourceLabel": "2026-04-13 패스트오더 사용자 매뉴얼",
       "sourcePages": [
         29
@@ -957,13 +959,13 @@
       "app": "common",
       "category": "매장 환경",
       "title": "POS·태블릿·공유기 연결 환경 점검하기",
-      "intro": "PDF의 매장 환경 안내를 점주가 확인할 수 있는 항목으로 정리했습니다.",
+      "intro": "안정적인 주문 처리를 위해 매장의 네트워크 환경을 확인해 주세요.",
       "steps": [
         "메인 POS·서브 POS·테이블 태블릿·마스터 태블릿이 같은 IP 대역을 사용하도록 설치 담당자에게 확인합니다.",
         "매장에 지정된 테이블오더 Wi-Fi를 사용하고, 다른 Wi-Fi로 임의 변경하지 않습니다.",
         "고객 Wi-Fi·CCTV용 네트워크와 테이블오더용 네트워크 분리를 설치 담당자와 확인합니다.",
         "벽과 장애물로 신호가 약한 구역이 있는지 확인하고, 필요하면 AP 또는 Mesh 배치를 담당자에게 요청합니다.",
-        "PDF는 5GHz Wi-Fi와 500Mbps 이상 인터넷, 1Gbps 권장을 안내합니다. 실제 구성은 매장 환경에 맞게 확인합니다."
+        "권장 네트워크 환경은 5GHz Wi-Fi와 500Mbps 이상 인터넷, 1Gbps 권장을 안내합니다. 실제 구성은 매장 환경에 맞게 확인합니다."
       ],
       "keywords": "POS·태블릿·공유기 연결 환경 점검하기 매장 환경",
       "tip": "인터넷·공유기·네트워크 설정 변경은 설치 담당자에게 요청해 주세요. 앱 버전·POS·매장 설정에 따라 구성은 다를 수 있습니다.",
@@ -978,214 +980,257 @@
     "hide": [
       {
         "file": "owner-menu.webp",
-        "caption": "메뉴 관리 진입 화면"
+        "caption": "메뉴 관리 진입 화면",
+        "afterStep": 1
       },
       {
         "file": "guide-menu-edit-02.jpg",
-        "caption": "메뉴 관리 작업 선택"
+        "caption": "메뉴 관리 작업 선택",
+        "afterStep": 2
       },
       {
         "file": "owner-hide.gif",
         "caption": "메뉴 숨김 설정 시연",
         "gif": true,
-        "poster": "owner-hide-poster.webp"
+        "poster": "owner-hide-poster.webp",
+        "afterStep": 3
       }
     ],
     "sort": [
       {
         "file": "owner-menu.webp",
-        "caption": "메뉴 관리 진입 화면"
+        "caption": "메뉴 관리 진입 화면",
+        "afterStep": 1
       },
       {
         "file": "guide-menu-edit-02.jpg",
-        "caption": "메뉴 관리 작업 선택"
+        "caption": "메뉴 관리 작업 선택",
+        "afterStep": 2
       },
       {
         "file": "owner-sort.gif",
         "caption": "메뉴 순서 변경 시연",
         "gif": true,
-        "poster": "owner-sort-poster.webp"
+        "poster": "owner-sort-poster.webp",
+        "afterStep": 3
       }
     ],
     "edit": [
       {
         "file": "guide-menu-edit-06.jpg",
         "caption": "메뉴 상세 설정 전체 화면",
-        "long": true
+        "long": true,
+        "afterStep": 2
       }
     ],
     "master-tables": [
       {
         "file": "pdf-manual-p13.webp",
-        "caption": "마스터앱 · 테이블 관리 화면 예시"
+        "caption": "마스터앱 · 테이블 관리 화면 예시",
+        "afterStep": 1
       },
       {
         "file": "pdf-manual-p15.webp",
-        "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 15쪽 화면 예시"
+        "caption": "마스터앱에서 테이블별 주문과 상태 확인하기 화면",
+        "afterStep": 2
       },
       {
         "file": "pdf-manual-p16.webp",
-        "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 16쪽 화면 예시"
+        "caption": "마스터앱에서 테이블별 주문과 상태 확인하기 화면",
+        "afterStep": 2
       },
       {
         "file": "guide-table-01.jpg",
-        "caption": "테이블 관리 · 원본 화면 1"
+        "caption": "테이블 관리 · 원본 화면 1",
+        "afterStep": 1
       },
       {
         "file": "guide-table-12.jpg",
-        "caption": "테이블 관리 · 원본 화면 12"
+        "caption": "테이블 관리 · 원본 화면 12",
+        "afterStep": 3
       },
       {
         "file": "guide-table-13.jpg",
-        "caption": "테이블 관리 · 원본 화면 13"
+        "caption": "테이블 관리 · 원본 화면 13",
+        "afterStep": 3
       },
       {
         "file": "guide-table-14.jpg",
-        "caption": "테이블 관리 · 원본 화면 14"
+        "caption": "테이블 관리 · 원본 화면 14",
+        "afterStep": 3
       }
     ],
     "master-battery": [
       {
         "file": "pdf-manual-p13.webp",
-        "caption": "마스터앱 · 테이블 관리 화면 예시"
+        "caption": "마스터앱 · 테이블 관리 화면 예시",
+        "afterStep": 1
       },
       {
         "file": "guide-table-04.jpg",
-        "caption": "테이블 관리 · 원본 화면 4"
+        "caption": "테이블 관리 · 원본 화면 4",
+        "afterStep": 2
       },
       {
         "file": "guide-table-05.jpg",
-        "caption": "테이블 관리 · 원본 화면 5"
+        "caption": "테이블 관리 · 원본 화면 5",
+        "afterStep": 2
       }
     ],
     "master-sort": [
       {
         "file": "pdf-manual-p13.webp",
-        "caption": "마스터앱 · 테이블 관리 화면 예시"
+        "caption": "마스터앱 · 테이블 관리 화면 예시",
+        "afterStep": 1
       },
       {
         "file": "guide-table-02.jpg",
-        "caption": "테이블 관리 · 원본 화면 2"
+        "caption": "테이블 관리 · 원본 화면 2",
+        "afterStep": 2
       },
       {
         "file": "guide-table-03.jpg",
-        "caption": "테이블 관리 · 원본 화면 3"
+        "caption": "테이블 관리 · 원본 화면 3",
+        "afterStep": 2
       }
     ],
     "order-history": [
       {
         "file": "order-history.avif",
-        "caption": "오더앱 · 손님 테이블의 주문 내역과 남은 금액 표시 예시"
+        "caption": "오더앱 · 손님 테이블의 주문 내역과 남은 금액 표시 예시",
+        "afterStep": 1
       }
     ],
     "pdf-order-cart": [
       {
         "file": "pdf-manual-p03.webp",
-        "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 3쪽 화면 예시"
+        "caption": "메뉴 선택부터 장바구니 주문까지 화면",
+        "afterStep": 2
       },
       {
         "file": "pdf-manual-p04.webp",
-        "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 4쪽 화면 예시"
+        "caption": "메뉴 선택부터 장바구니 주문까지 화면",
+        "afterStep": 3
       }
     ],
     "pdf-call-staff": [
       {
         "file": "pdf-manual-p05.webp",
-        "caption": "PDF 5쪽 왼쪽 · 직원 호출 화면 예시"
+        "caption": "왼쪽 · 직원 호출 화면 예시",
+        "afterStep": 2
       }
     ],
     "pdf-idle-screen": [
       {
         "file": "pdf-manual-p05.webp",
-        "caption": "PDF 5쪽 오른쪽 · 대기화면 예시 (터치하면 주문 화면으로 복귀)"
+        "caption": "오른쪽 · 대기화면 예시 (터치하면 주문 화면으로 복귀)",
+        "afterStep": 1
       }
     ],
     "pdf-request-list": [
       {
         "file": "pdf-manual-p07.webp",
-        "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 7쪽 화면 예시"
+        "caption": "요청 리스트의 신규·추가·선불·후불 표시 읽기 화면",
+        "afterStep": 1
       },
       {
         "file": "pdf-manual-p08.webp",
-        "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 8쪽 화면 예시"
+        "caption": "요청 리스트의 신규·추가·선불·후불 표시 읽기 화면",
+        "afterStep": 3
       },
       {
         "file": "guide-total-01.jpg",
-        "caption": "통합내역 · 원본 화면 1"
+        "caption": "통합내역 · 원본 화면 1",
+        "afterStep": 2
       }
     ],
     "pdf-robot-call": [
       {
         "file": "pdf-manual-p10.webp",
-        "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 10쪽 화면 예시"
+        "caption": "서빙로봇을 사용하는 매장의 호출 내역 확인하기 화면",
+        "afterStep": 2
       }
     ],
     "pdf-battery-icons": [
       {
         "file": "pdf-manual-p15.webp",
-        "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 15쪽 화면 예시"
+        "caption": "배터리 잔량과 충전 상태 아이콘 확인하기 화면",
+        "afterStep": 3
       },
       {
         "file": "guide-table-04.jpg",
-        "caption": "테이블 관리 · 원본 화면 4"
+        "caption": "테이블 관리 · 원본 화면 4",
+        "afterStep": 1
       },
       {
         "file": "guide-table-05.jpg",
-        "caption": "테이블 관리 · 원본 화면 5"
+        "caption": "테이블 관리 · 원본 화면 5",
+        "afterStep": 2
       }
     ],
     "pdf-table-time-alert": [
       {
         "file": "pdf-manual-p16.webp",
-        "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 16쪽 화면 예시"
+        "caption": "이용시간이 임박한 테이블에 알림 보내기 화면",
+        "afterStep": 1
       },
       {
         "file": "guide-table-06.jpg",
-        "caption": "테이블 관리 · 원본 화면 6"
+        "caption": "테이블 관리 · 원본 화면 6",
+        "afterStep": 1
       },
       {
         "file": "guide-table-07.jpg",
-        "caption": "테이블 관리 · 원본 화면 7"
+        "caption": "테이블 관리 · 원본 화면 7",
+        "afterStep": 2
       },
       {
         "file": "guide-table-08.jpg",
-        "caption": "테이블 관리 · 원본 화면 8"
+        "caption": "테이블 관리 · 원본 화면 8",
+        "afterStep": 2
       },
       {
         "file": "guide-table-09.jpg",
-        "caption": "테이블 관리 · 원본 화면 9"
+        "caption": "테이블 관리 · 원본 화면 9",
+        "afterStep": 2
       },
       {
         "file": "guide-table-10.jpg",
-        "caption": "테이블 관리 · 원본 화면 10"
+        "caption": "테이블 관리 · 원본 화면 10",
+        "afterStep": 3
       }
     ],
     "pdf-kds-order": [
       {
         "file": "pdf-manual-p17.webp",
-        "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 17쪽 화면 예시"
+        "caption": "KDS의 선입·최신 정렬과 가로·세로 모드 바꾸기 화면",
+        "afterStep": 1
       },
       {
         "file": "guide-kds-01.jpg",
-        "caption": "KDS · 원본 화면 1"
+        "caption": "KDS · 원본 화면 1",
+        "afterStep": 3
       }
     ],
     "pdf-kds-undo": [
       {
         "file": "pdf-manual-p18.webp",
-        "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 18쪽 화면 예시"
+        "caption": "KDS에서 완료한 주문을 다시 되돌리기 화면",
+        "afterStep": 3
       }
     ],
     "pdf-powerstrip": [
       {
         "file": "pdf-manual-p27.webp",
-        "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 27쪽 화면 예시"
+        "caption": "멀티탭을 안전하게 사용하는 방법 화면",
+        "afterStep": 1
       }
     ],
     "pdf-charger": [
       {
         "file": "pdf-manual-p28.webp",
-        "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 28쪽 화면 예시"
+        "caption": "보조배터리·충전기 사용과 보관 방법 화면",
+        "afterStep": 1
       }
     ],
     "pdf-device-inspection": [],
@@ -1193,383 +1238,461 @@
     "total-history": [
       {
         "file": "pdf-manual-p06.webp",
-        "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 6쪽 화면 예시"
+        "caption": "주문·직원 호출 내역과 메뉴 제공 상태 관리하기 화면",
+        "afterStep": 1
       },
       {
         "file": "pdf-manual-p08.webp",
-        "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 8쪽 화면 예시"
+        "caption": "주문·직원 호출 내역과 메뉴 제공 상태 관리하기 화면",
+        "afterStep": 3
       },
       {
         "file": "pdf-manual-p09.webp",
-        "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 9쪽 화면 예시"
+        "caption": "주문·직원 호출 내역과 메뉴 제공 상태 관리하기 화면",
+        "afterStep": 2
       },
       {
         "file": "guide-total-01.jpg",
-        "caption": "통합내역 · 원본 화면 1"
+        "caption": "통합내역 · 원본 화면 1",
+        "afterStep": 1
       }
     ],
     "master-device-control": [
       {
         "file": "pdf-manual-p13.webp",
-        "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 13쪽 화면 예시"
+        "caption": "전체·개별 테이블 기기 실행·종료·재시작하기 화면",
+        "afterStep": 1
       },
       {
         "file": "pdf-manual-p15.webp",
-        "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 15쪽 화면 예시"
+        "caption": "전체·개별 테이블 기기 실행·종료·재시작하기 화면",
+        "afterStep": 2
       },
       {
         "file": "guide-table-11.jpg",
-        "caption": "테이블 관리 · 원본 화면 11"
+        "caption": "테이블 관리 · 원본 화면 11",
+        "afterStep": 2
       }
     ],
     "kds": [
       {
         "file": "pdf-manual-p17.webp",
-        "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 17쪽 화면 예시"
+        "caption": "KDS에서 메뉴 완료 처리와 조리완료 알림 보내기 화면",
+        "afterStep": 2
       },
       {
         "file": "guide-kds-01.jpg",
-        "caption": "KDS · 원본 화면 1"
+        "caption": "KDS · 원본 화면 1",
+        "afterStep": 1
       },
       {
         "file": "guide-kds-02.jpg",
-        "caption": "KDS · 원본 화면 2"
+        "caption": "KDS · 원본 화면 2",
+        "afterStep": 4
       }
     ],
     "printer": [
       {
         "file": "pdf-manual-p24.webp",
-        "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 24쪽 화면 예시"
+        "caption": "연결 프린터와 출력 항목·대상 설정하기 화면",
+        "afterStep": 2
       },
       {
         "file": "guide-printer-01.png",
-        "caption": "출력 설정 · 원본 화면 1"
+        "caption": "출력 설정 · 원본 화면 1",
+        "afterStep": 3
       }
     ],
     "master-menu": [
       {
         "file": "pdf-manual-p20.webp",
-        "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 20쪽 화면 예시"
+        "caption": "마스터앱에서 메뉴 노출·상태 변경하기 화면",
+        "afterStep": 2
       },
       {
         "file": "guide-master-menu-01.jpg",
-        "caption": "마스터앱 메뉴 관리 · 원본 화면 1"
+        "caption": "마스터앱 메뉴 관리 · 원본 화면 1",
+        "afterStep": 2
       }
     ],
     "master-options": [
       {
         "file": "pdf-manual-p21.webp",
-        "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 21쪽 화면 예시"
+        "caption": "마스터앱에서 옵션 노출 여부 변경하기 화면",
+        "afterStep": 2
       },
       {
         "file": "guide-master-option-01.jpg",
-        "caption": "마스터앱 옵션 관리 · 원본 화면 1"
+        "caption": "마스터앱 옵션 관리 · 원본 화면 1",
+        "afterStep": 2
       }
     ],
     "master-order-settings": [
       {
         "file": "pdf-manual-p22.webp",
-        "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 22쪽 화면 예시"
+        "caption": "최소 주문 조건·금액과 영수증 출력 설정하기 화면",
+        "afterStep": 2
       },
       {
         "file": "guide-master-order-01.jpg",
-        "caption": "최소 주문 설정 · 원본 화면 1"
+        "caption": "최소 주문 설정 · 원본 화면 1",
+        "afterStep": 2
       }
     ],
     "kitchen-close": [
       {
         "file": "pdf-manual-p23.webp",
-        "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 23쪽 화면 예시"
+        "caption": "카테고리별 주방 마감·개시 설정하기 화면",
+        "afterStep": 2
       },
       {
         "file": "guide-kitchen-01.jpg",
-        "caption": "주방 마감 · 원본 화면 1"
+        "caption": "주방 마감 · 원본 화면 1",
+        "afterStep": 2
       },
       {
         "file": "guide-kitchen-02.jpg",
-        "caption": "주방 마감 · 원본 화면 2"
+        "caption": "주방 마감 · 원본 화면 2",
+        "afterStep": 3
       }
     ],
     "alarm": [
       {
         "file": "pdf-manual-p25.webp",
-        "caption": "2026-04-13 패스트오더 사용자 매뉴얼 · PDF 25쪽 화면 예시"
+        "caption": "알림음·반복 횟수·재생 간격·음량 설정하기 화면",
+        "afterStep": 2
       },
       {
         "file": "guide-alarm-01.jpg",
-        "caption": "알림벨 설정 · 원본 화면 1"
+        "caption": "알림벨 설정 · 원본 화면 1",
+        "afterStep": 2
       },
       {
         "file": "guide-alarm-02.jpg",
-        "caption": "알림벨 설정 · 원본 화면 2"
+        "caption": "알림벨 설정 · 원본 화면 2",
+        "afterStep": 3
       }
     ],
     "payment-history": [],
     "delete-menu": [
       {
         "file": "owner-menu.webp",
-        "caption": "메뉴 관리 진입 화면"
+        "caption": "메뉴 관리 진입 화면",
+        "afterStep": 1
       },
       {
         "file": "guide-menu-edit-02.jpg",
-        "caption": "메뉴 관리 작업 선택"
+        "caption": "메뉴 관리 작업 선택",
+        "afterStep": 2
       },
       {
         "file": "guide-menu-edit-05.gif",
         "caption": "메뉴 삭제 시연",
         "gif": true,
-        "poster": "guide-menu-edit-05-poster.webp"
+        "poster": "guide-menu-edit-05-poster.webp",
+        "afterStep": 2
       }
     ],
     "group-sort": [
       {
         "file": "guide-menu-group-edit-01.jpg",
-        "caption": "메뉴 그룹 목록"
+        "caption": "메뉴 그룹 목록",
+        "afterStep": 1
       },
       {
         "file": "guide-menu-group-edit-02.jpg",
-        "caption": "메뉴 그룹 작업 선택"
+        "caption": "메뉴 그룹 작업 선택",
+        "afterStep": 2
       },
       {
         "file": "guide-menu-group-edit-03.gif",
         "caption": "메뉴 그룹 순서 변경 시연",
         "gif": true,
-        "poster": "guide-menu-group-edit-03-poster.webp"
+        "poster": "guide-menu-group-edit-03-poster.webp",
+        "afterStep": 3
       }
     ],
     "group-hide": [
       {
         "file": "guide-menu-group-edit-01.jpg",
-        "caption": "메뉴 그룹 목록"
+        "caption": "메뉴 그룹 목록",
+        "afterStep": 1
       },
       {
         "file": "guide-menu-group-edit-02.jpg",
-        "caption": "메뉴 그룹 작업 선택"
+        "caption": "메뉴 그룹 작업 선택",
+        "afterStep": 1
       },
       {
         "file": "guide-menu-group-edit-04.jpg",
-        "caption": "메뉴 그룹 숨김 설정"
+        "caption": "메뉴 그룹 숨김 설정",
+        "afterStep": 2
       }
     ],
     "group-delete": [
       {
         "file": "guide-menu-group-edit-01.jpg",
-        "caption": "메뉴 그룹 목록"
+        "caption": "메뉴 그룹 목록",
+        "afterStep": 1
       },
       {
         "file": "guide-menu-group-edit-02.jpg",
-        "caption": "메뉴 그룹 작업 선택"
+        "caption": "메뉴 그룹 작업 선택",
+        "afterStep": 1
       },
       {
         "file": "guide-menu-group-edit-05.jpg",
-        "caption": "메뉴 그룹 삭제"
+        "caption": "메뉴 그룹 삭제",
+        "afterStep": 2
       }
     ],
     "group-edit": [
       {
         "file": "guide-menu-group-edit-06.jpg",
         "caption": "메뉴 그룹 상세 수정",
-        "long": true
+        "long": true,
+        "afterStep": 2
       }
     ],
     "option-sort": [
       {
         "file": "guide-option-edit-01.png",
-        "caption": "옵션 목록"
+        "caption": "옵션 목록",
+        "afterStep": 1
       },
       {
         "file": "guide-option-edit-02.png",
-        "caption": "옵션 작업 선택"
+        "caption": "옵션 작업 선택",
+        "afterStep": 1
       },
       {
         "file": "guide-option-edit-03.gif",
         "caption": "옵션 순서 변경 시연",
         "gif": true,
-        "poster": "guide-option-edit-03-poster.webp"
+        "poster": "guide-option-edit-03-poster.webp",
+        "afterStep": 2
       }
     ],
     "option-hide": [
       {
         "file": "guide-option-edit-01.png",
-        "caption": "옵션 목록"
+        "caption": "옵션 목록",
+        "afterStep": 1
       },
       {
         "file": "guide-option-edit-02.png",
-        "caption": "옵션 작업 선택"
+        "caption": "옵션 작업 선택",
+        "afterStep": 1
       },
       {
         "file": "guide-option-edit-04.png",
-        "caption": "옵션 숨김 설정"
+        "caption": "옵션 숨김 설정",
+        "afterStep": 2
       }
     ],
     "option-delete": [
       {
         "file": "guide-option-edit-01.png",
-        "caption": "옵션 목록"
+        "caption": "옵션 목록",
+        "afterStep": 1
       },
       {
         "file": "guide-option-edit-02.png",
-        "caption": "옵션 작업 선택"
+        "caption": "옵션 작업 선택",
+        "afterStep": 1
       },
       {
         "file": "guide-option-edit-05.png",
-        "caption": "옵션 삭제"
+        "caption": "옵션 삭제",
+        "afterStep": 2
       }
     ],
     "option-group-edit": [
       {
         "file": "guide-option-edit-06.png",
-        "caption": "옵션 그룹 표시 이름과 관리용 이름"
+        "caption": "옵션 그룹 표시 이름과 관리용 이름",
+        "afterStep": 2
       }
     ],
     "option-edit": [
       {
         "file": "guide-option-edit-07.png",
-        "caption": "옵션 이름·타입·기본값"
+        "caption": "옵션 이름·타입·기본값",
+        "afterStep": 2
       }
     ],
     "connect": [
       {
         "file": "guide-store-connect-01.png",
-        "caption": "연동 신청 진입"
+        "caption": "연동 신청 진입",
+        "afterStep": 1
       },
       {
         "file": "guide-store-connect-02.jpg",
-        "caption": "매장 연동 신청 입력 화면"
+        "caption": "매장 연동 신청 입력 화면",
+        "afterStep": 2
       },
       {
         "file": "guide-store-connect-03.jpg",
-        "caption": "사업자 정보와 첨부 입력 화면"
+        "caption": "사업자 정보와 첨부 입력 화면",
+        "afterStep": 2
       },
       {
         "file": "guide-store-connect-04.jpg",
-        "caption": "매장 연동 · 원본 화면 4"
+        "caption": "매장 연동 · 원본 화면 4",
+        "afterStep": 3
       },
       {
         "file": "guide-store-connect-05.jpg",
-        "caption": "매장 연동 · 원본 화면 5"
+        "caption": "매장 연동 · 원본 화면 5",
+        "afterStep": 3
       }
     ],
     "party-count": [
       {
         "file": "guide-party-03.jpg",
-        "caption": "성인·아동 인원수 선택 예시"
+        "caption": "성인·아동 인원수 선택 예시",
+        "afterStep": 1
       },
       {
         "file": "guide-party-04.jpg",
-        "caption": "기본 인원수 선택 예시"
+        "caption": "기본 인원수 선택 예시",
+        "afterStep": 1
       }
     ],
     "master-session": [
       {
         "file": "pdf-manual-p26.webp",
-        "caption": "PDF 26쪽 · 통합내역 전체 삭제와 마스터앱 종료 화면"
+        "caption": "통합내역 전체 삭제와 마스터앱 종료 화면",
+        "afterStep": 1
       }
     ],
     "mypage": [
       {
         "file": "guide-mypage-01.jpg",
-        "caption": "마이페이지·차트 · 원본 화면 1"
+        "caption": "마이페이지·차트 · 원본 화면 1",
+        "afterStep": 1
       }
     ],
     "monthly-chart": [
       {
         "file": "guide-mypage-03.jpg",
-        "caption": "마이페이지·차트 · 원본 화면 3"
+        "caption": "마이페이지·차트 · 원본 화면 3",
+        "afterStep": 2
       }
     ],
     "daily-chart": [
       {
         "file": "guide-mypage-04.png",
-        "caption": "마이페이지·차트 · 원본 화면 4"
+        "caption": "마이페이지·차트 · 원본 화면 4",
+        "afterStep": 2
       }
     ],
     "menu-chart": [
       {
         "file": "guide-mypage-05.jpg",
-        "caption": "마이페이지·차트 · 원본 화면 5"
+        "caption": "마이페이지·차트 · 원본 화면 5",
+        "afterStep": 2
       },
       {
         "file": "guide-mypage-06.jpg",
-        "caption": "마이페이지·차트 · 원본 화면 6"
+        "caption": "마이페이지·차트 · 원본 화면 6",
+        "afterStep": 3
       }
     ],
     "last-order": [
       {
         "file": "guide-last-order-01.jpg",
-        "caption": "직전 주문 팝업 · 원본 화면 1"
+        "caption": "직전 주문 팝업 · 원본 화면 1",
+        "afterStep": 1
       }
     ],
     "prepaid": [
       {
         "file": "guide-prepaid-01.png",
-        "caption": "선불·분할 결제 · 원본 화면 1"
+        "caption": "선불·분할 결제 · 원본 화면 1",
+        "afterStep": 1
       },
       {
         "file": "guide-prepaid-02.jpg",
-        "caption": "선불·분할 결제 · 원본 화면 2"
+        "caption": "선불·분할 결제 · 원본 화면 2",
+        "afterStep": 1
       },
       {
         "file": "guide-prepaid-04.png",
-        "caption": "선불·분할 결제 · 원본 화면 4"
+        "caption": "선불·분할 결제 · 원본 화면 4",
+        "afterStep": 2
       },
       {
         "file": "guide-prepaid-05.jpg",
-        "caption": "선불·분할 결제 · 원본 화면 5"
+        "caption": "선불·분할 결제 · 원본 화면 5",
+        "afterStep": 2
       },
       {
         "file": "guide-prepaid-06.jpg",
-        "caption": "선불·분할 결제 · 원본 화면 6"
+        "caption": "선불·분할 결제 · 원본 화면 6",
+        "afterStep": 2
       },
       {
         "file": "guide-prepaid-07.jpg",
-        "caption": "선불·분할 결제 · 원본 화면 7"
+        "caption": "선불·분할 결제 · 원본 화면 7",
+        "afterStep": 2
       },
       {
         "file": "guide-prepaid-08.jpg",
-        "caption": "선불·분할 결제 · 원본 화면 8"
+        "caption": "선불·분할 결제 · 원본 화면 8",
+        "afterStep": 3
       },
       {
         "file": "guide-prepaid-09.jpg",
-        "caption": "선불·분할 결제 · 원본 화면 9"
+        "caption": "선불·분할 결제 · 원본 화면 9",
+        "afterStep": 3
       }
     ],
     "served-popup": [
       {
         "file": "guide-served-01.png",
-        "caption": "메뉴 제공 알림 · 원본 화면 1"
+        "caption": "메뉴 제공 알림 · 원본 화면 1",
+        "afterStep": 1
       },
       {
         "file": "guide-served-02.jpg",
-        "caption": "메뉴 제공 알림 · 원본 화면 2"
+        "caption": "메뉴 제공 알림 · 원본 화면 2",
+        "afterStep": 1
       },
       {
         "file": "guide-served-03.jpg",
-        "caption": "메뉴 제공 알림 · 원본 화면 3"
+        "caption": "메뉴 제공 알림 · 원본 화면 3",
+        "afterStep": 2
       },
       {
         "file": "guide-served-04.jpg",
-        "caption": "메뉴 제공 알림 · 원본 화면 4"
+        "caption": "메뉴 제공 알림 · 원본 화면 4",
+        "afterStep": 3
       },
       {
         "file": "guide-served-05.jpg",
-        "caption": "메뉴 제공 알림 · 원본 화면 5"
+        "caption": "메뉴 제공 알림 · 원본 화면 5",
+        "afterStep": 3
       }
     ],
     "protected-mode": [
       {
         "file": "guide-protected-01.png",
-        "caption": "오더앱 보호 모드 · 원본 화면 1"
+        "caption": "오더앱 보호 모드 · 원본 화면 1",
+        "afterStep": 1
       },
       {
         "file": "guide-protected-02.jpg",
-        "caption": "오더앱 보호 모드 · 원본 화면 2"
+        "caption": "오더앱 보호 모드 · 원본 화면 2",
+        "afterStep": 1
       }
     ],
     "internet-status": [
       {
         "file": "guide-internet-01.png",
-        "caption": "인터넷 연결 상태 · 원본 화면 1"
+        "caption": "인터넷 연결 상태 · 원본 화면 1",
+        "afterStep": 1
       }
     ]
   },
@@ -1608,5 +1731,5 @@
     "master": "pdf-manual-p13.webp",
     "order": "order-history.avif"
   },
-  "updatedAt": "2026-10-30T05:10:31.020458+00:00"
+  "updatedAt": "2026-10-30T04:00:00.000Z"
 }
