@@ -1651,11 +1651,6 @@
     ],
     "served-popup": [
       {
-        "file": "guide-served-01.png",
-        "caption": "메뉴 제공 알림 · 원본 화면 1",
-        "afterStep": 1
-      },
-      {
         "file": "guide-served-02.jpg",
         "caption": "메뉴 제공 알림 · 원본 화면 2",
         "afterStep": 1
@@ -1681,20 +1676,9 @@
         "file": "guide-protected-01.png",
         "caption": "오더앱 보호 모드 · 원본 화면 1",
         "afterStep": 1
-      },
-      {
-        "file": "guide-protected-02.jpg",
-        "caption": "오더앱 보호 모드 · 원본 화면 2",
-        "afterStep": 1
       }
     ],
-    "internet-status": [
-      {
-        "file": "guide-internet-01.png",
-        "caption": "인터넷 연결 상태 · 원본 화면 1",
-        "afterStep": 1
-      }
-    ]
+    "internet-status": []
   },
   "apps": {
     "owner": {
