@@ -1043,7 +1043,7 @@
     {
       "id": "imyou-power-settings",
       "app": "order",
-      "category": "아임유 오더 태블릿",
+      "category": "ST10GV  태블릿",
       "title": "전원 관리 및 설정 접근 방법",
       "intro": "아임유 오더 태블릿에서 전원 관리 및 설정 화면에 접근하려면 관리자 모드를 해제합니다.",
       "steps": [
@@ -1832,5 +1832,5 @@
     "master": "pdf-manual-p13.webp",
     "order": "order-history.avif"
   },
-  "updatedAt": "2026-11-02T02:17:27.534Z"
+  "updatedAt": "2026-11-02T02:27:13.520Z"
 }
