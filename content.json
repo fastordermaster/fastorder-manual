@@ -1871,6 +1871,16 @@
     "master-communication-reboot": [],
     "van-kicc-setup": [
       {
+        "file": "kicc-settings-password-screen.png",
+        "caption": "EasyCard-A 설정 진입 화면",
+        "afterStep": 2
+      },
+      {
+        "file": "kicc-reader-select.png",
+        "caption": "리더기 설정과 연결된 리더기 선택",
+        "afterStep": 4
+      },
+      {
         "file": "kicc-reader-settings.png",
         "caption": "직접연결·절전·실서버 설정 화면",
         "afterStep": 5
