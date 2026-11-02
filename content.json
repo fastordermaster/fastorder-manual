@@ -1871,8 +1871,8 @@
     "master-communication-reboot": [],
     "van-kicc-setup": [
       {
-        "file": "kicc-settings-diagram.png",
-        "caption": "리더기 연동 설정 확인용 구성도",
+        "file": "kicc-reader-settings.png",
+        "caption": "직접연결·절전·실서버 설정 화면",
         "afterStep": 5
       }
     ]
