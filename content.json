@@ -2344,6 +2344,11 @@
         "file": "app-install-url.webp",
         "caption": "다운로드센터 주소 입력",
         "afterStep": 2
+      },
+      {
+        "file": "waiting-master-download-live.jpg",
+        "caption": "웨이팅 마스터앱 운영 버전 다운로드 화면 · 버전 번호는 예시입니다.",
+        "afterStep": 3
       }
     ],
     "waiting-app-install": [
@@ -2356,6 +2361,11 @@
         "file": "app-install-url.webp",
         "caption": "다운로드센터 주소 입력",
         "afterStep": 2
+      },
+      {
+        "file": "waiting-download-live.jpg",
+        "caption": "웨이팅앱 운영 버전 다운로드 화면 · 버전 번호는 예시입니다.",
+        "afterStep": 3
       }
     ]
   },
