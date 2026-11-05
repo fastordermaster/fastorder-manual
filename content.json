@@ -1992,117 +1992,127 @@
     ],
     "van-kis-setup": [
       {
-        "file": "kis-manual-02.webp",
+        "file": "kis-screen-02-1.webp",
         "caption": "바탕화면 진입",
         "afterStep": 1
       },
       {
-        "file": "kis-manual-03.webp",
+        "file": "kis-screen-03-1.webp",
         "caption": "KIS-ANDAGT 앱 찾기",
         "afterStep": 1
       },
       {
-        "file": "kis-manual-06.webp",
+        "file": "kis-screen-06-1.webp",
         "caption": "다운로드센터 주소 입력",
         "afterStep": 2
       },
       {
-        "file": "kis-manual-07.webp",
+        "file": "kis-screen-07-1.webp",
         "caption": "다운로드센터 확인",
         "afterStep": 2
       },
       {
-        "file": "kis-manual-09.webp",
+        "file": "kis-screen-09-1.webp",
         "caption": "기타 앱에서 KIS ANDAGT 찾기",
         "afterStep": 3
       },
       {
-        "file": "kis-manual-10.webp",
+        "file": "kis-screen-10-1.webp",
         "caption": "설치 파일 다운로드",
         "afterStep": 3
       },
       {
-        "file": "kis-manual-11.webp",
+        "file": "kis-screen-11-1.webp",
         "caption": "다운로드한 파일 열기",
         "afterStep": 4
       },
       {
-        "file": "kis-manual-12.webp",
+        "file": "kis-screen-12-1.webp",
         "caption": "앱 설치",
         "afterStep": 4
       },
       {
-        "file": "kis-manual-14.webp",
+        "file": "kis-screen-14-1.webp",
         "caption": "설치 완료 후 실행",
         "afterStep": 4
       },
       {
-        "file": "kis-manual-15.webp",
+        "file": "kis-screen-15-1.webp",
         "caption": "앱 권한 요청 확인",
         "afterStep": 5
       },
       {
-        "file": "kis-manual-16.webp",
+        "file": "kis-screen-16-1.webp",
         "caption": "추가 앱 권한 요청 확인",
         "afterStep": 5
       },
       {
-        "file": "kis-manual-17.webp",
+        "file": "kis-screen-17-1.webp",
         "caption": "필요 권한 확인",
         "afterStep": 5
       },
       {
-        "file": "kis-manual-18.webp",
+        "file": "kis-screen-18-1.webp",
         "caption": "필요 권한 허용",
         "afterStep": 5
       },
       {
-        "file": "kis-manual-19.webp",
+        "file": "kis-screen-19-1.webp",
         "caption": "권한 설정 마무리",
         "afterStep": 5
       },
       {
-        "file": "kis-manual-20.webp",
+        "file": "kis-screen-20-1.webp",
         "caption": "약관과 동의 항목 확인",
         "afterStep": 6
       },
       {
-        "file": "kis-manual-21.webp",
+        "file": "kis-screen-21-1.webp",
         "caption": "동의 후 다음 단계로 이동",
         "afterStep": 6
       },
       {
-        "file": "kis-manual-24.webp",
+        "file": "kis-screen-24-1.webp",
         "caption": "가맹점 다운로드 완료 및 리더기 검색",
         "afterStep": 9
       },
       {
-        "file": "kis-manual-25.webp",
+        "file": "kis-screen-25-1.webp",
         "caption": "연결된 리더기 검색",
         "afterStep": 10
       },
       {
-        "file": "kis-manual-26.webp",
-        "caption": "리더기 키 다운로드",
+        "file": "kis-screen-26-1.webp",
+        "caption": "리더기 키 다운로드 · 1",
         "afterStep": 11
       },
       {
-        "file": "kis-manual-27.webp",
-        "caption": "설정에서 무결성 검사 열기",
+        "file": "kis-screen-26-2.webp",
+        "caption": "리더기 키 다운로드 · 2",
+        "afterStep": 11
+      },
+      {
+        "file": "kis-screen-27-1.webp",
+        "caption": "설정에서 무결성 검사 열기 · 1",
         "afterStep": 12
       },
       {
-        "file": "kis-manual-28.webp",
+        "file": "kis-screen-27-2.webp",
+        "caption": "설정에서 무결성 검사 열기 · 2",
+        "afterStep": 12
+      },
+      {
+        "file": "kis-screen-28-1.webp",
         "caption": "무결성 검사 실행",
         "afterStep": 12
       },
       {
-        "file": "kis-manual-29.webp",
+        "file": "kis-screen-29-1.webp",
         "caption": "바탕화면으로 돌아가기",
         "afterStep": 13
       },
       {
-        "file": "kis-manual-30.webp",
+        "file": "kis-screen-30-1.webp",
         "caption": "테이블오더 앱 실행",
         "afterStep": 13
       }
